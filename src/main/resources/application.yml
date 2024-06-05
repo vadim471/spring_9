@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring_9
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/java
+    username: macbookair
+    password: postgres
+

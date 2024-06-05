@@ -4,16 +4,55 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d7558f-64c7-4e15-9433-e7e60ab45211" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="60d7558f-64c7-4e15-9433-e7e60ab45211" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/AutoService.5jXDhg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/bookings.OgOGdw.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/demo.4_0uAA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/department.UkOOMg/schema/public.abK9xQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/fastapi.PnTMvw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/java.IqoxAA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf9c35f-d4db-483c-9665-cba2a5bf8b8f/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/DTO/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/ProductsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +135,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/templates" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.spring_9 [compile]">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,12 +277,25 @@
       <workItem from="1716627799966" duration="9126000" />
       <workItem from="1716765554745" duration="28000" />
       <workItem from="1716786323021" duration="54000" />
-      <workItem from="1716889374089" duration="10195000" />
+      <workItem from="1716889374089" duration="10789000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1716901534151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716901534151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
